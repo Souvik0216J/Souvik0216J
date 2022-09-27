@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Computer Languages**
 
-- ⚡ Fun fact **I Am Funny**
+- ⚡ Fun fact **I Am Sirious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
