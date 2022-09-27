@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/Souvik0216J/Souvik0216J/blob/main/ezgif.com-gif-maker.gif)
 <h1 align="center">Hi 👋, I'm Souvik Ghosh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761137074c351733704f76df7d7d93e37eb124d25d47&rid=giphy.gif&ct=g">
