@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Souvik Ghosh</h1>
 <h3 align="center">A Passionate Full Stack Developer From India</h3>
 
-<img src="coding.gif" alt="Coding" width="400">
+<img src="coding.gif" alt="Coding" width="400" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik0216j&label=Profile%20views&color=0e75b6&style=flat" alt="souvik0216j" /> </p>
 
