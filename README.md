@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **mesouvikghosh96@gmail.com**
 
-- ⚡ Fun fact **Fun fact I WANNA BE A SSD BUT A SATA ONE**
+- ⚡ Fun fact **I WANNA BE A SSD BUT A SATA ONE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
