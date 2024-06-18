@@ -9,11 +9,11 @@
 
 <img src="coding.gif" alt="Coding" width="400" align="right">
 
-- 🌱 I’m currently learning **MongoDB, Express.js, React.js, Node.js**
+- 🌱 I’m currently learning **Deep learning, Computer Vision**
 
 - 👯 I’m looking to collaborate on **Hackathons**
 
-- 💬 Ask me about **HTML, CSS, C, C++, JavaScript**
+- 💬 Ask me about **Convolutional Neural Networks (CNNs), TensorFlow and Keras**
 
 - 📫 How to reach me **mesouvikghosh96@gmail.com**
 
