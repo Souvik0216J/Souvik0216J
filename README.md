@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Souvik0216J/Souvik0216J/blob/main/ezgif.com-gif-maker.gif)
 <h1 align="center">Hi 👋, I'm Souvik Ghosh</h1>
-<h3 align="center">A Passionate Full Stack Developer From India</h3>
+<!-- <h3 align="center">A Passionate Full Stack Developer From India</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik0216j&label=Profile%20views&color=0e75b6&style=flat" alt="profile-view" /> </p>
 
