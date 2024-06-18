@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Hackathons**
 
-- 💬 Ask me about **Convolutional Neural Networks (CNNs), TensorFlow and Keras**
+- 💬 Ask me about **Convolutional Neural Networks (CNNs), TensorFlow Etc.**
 
 - 📫 How to reach me **mesouvikghosh96@gmail.com**
 
