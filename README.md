@@ -21,9 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/souvik__05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="souvik__05" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/souvik-ghosh-1bb26a282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvik-ghosh-1bb26a282" height="30" width="40" /></a>
-<a href="https://fb.com/100090715204227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100090715204227" height="30" width="40" /></a>
 <a href="https://instagram.com/souvik___05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="souvik___05" height="30" width="40" /></a>
 </p>
 
