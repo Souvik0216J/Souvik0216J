@@ -33,9 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvik0216j&show_icons=true&locale=en" alt="souvik0216j" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik0216j&" alt="souvik0216j" /></p>
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
