@@ -30,6 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvik0216j&show_icons=true&locale=en" alt="souvik0216j" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik0216j&" alt="souvik0216j" /></p>
+<!--- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik0216j&" alt="souvik0216j" /></p> --->
 
 ![snake_gif](https://github.com/Souvik0216J/Souvik0216J/blob/output/github-contribution-grid-snake-dark.svg)
