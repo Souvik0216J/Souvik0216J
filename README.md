@@ -32,7 +32,6 @@ class SouvikGhosh:
         self.focus       = ["Deep Learning", "Computer Vision", "CNNs"]
         self.learning    = ["Advanced CV techniques", "Model optimization"]
         self.collaborate = "Hackathons & Open Source"
-        self.status      = "● AVAILABLE FOR WORK"
         self.fun_fact    = "I wanna be a SSD but a SATA one 😄"
 
     def say_hi(self):
