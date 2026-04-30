@@ -148,7 +148,6 @@ me.say_hi()
 <div align="center">
 
 <!-- Footer wave — black theme -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a0000,100:0a0a0a&height=120&section=footer" />
 
 <sub>⭐ Star some repos if you find them useful! &nbsp;|&nbsp; Made with ❤️ by <strong>Souvik Ghosh</strong></sub>
 
