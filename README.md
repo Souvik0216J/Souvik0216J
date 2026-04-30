@@ -35,7 +35,7 @@ class SouvikGhosh:
         self.fun_fact    = "I wanna be a SSD but a SATA one 😄"
 
     def say_hi(self):
-        print("I don't just learn development — I use it to build things that actually exist.")
+        print("I don't just learn development - I use it to build things that actually exist.")
 
 me = SouvikGhosh()
 me.say_hi()
