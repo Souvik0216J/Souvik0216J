@@ -27,10 +27,10 @@
 class SouvikGhosh:
     def __init__(self):
         self.name        = "Souvik Ghosh"
-        self.role        = "AI & ML Developer"
+        self.role        = "AI, ML & Web Developer"
         self.location    = "India 🇮🇳"
         self.focus       = ["Deep Learning", "Computer Vision", "CNNs"]
-        self.learning    = ["Advanced CV techniques", "Model optimization"]
+        self.learning    = ["Advanced Computer Vision", "Model optimization"]
         self.collaborate = "Hackathons & Open Source"
         self.fun_fact    = "I wanna be a SSD but a SATA one 😄"
 
