@@ -104,7 +104,7 @@ me.say_hi()
 
 ---
 
-## ▸ GITHUB STATS
+<!-- ## ▸ GITHUB STATS> 
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=souvik0216j&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=e63329&icon_color=e63329&text_color=ffffff&border_color=e63329" />
@@ -124,7 +124,7 @@ me.say_hi()
 </div>
 
 ---
-
+-->
 ## ▸ CONNECT WITH ME
 
 <div align="center">
